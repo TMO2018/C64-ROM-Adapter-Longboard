@@ -10,3 +10,6 @@ Only one ROM-type (KERNAL or BASIC or CHARACTER) at the same time is allowed.
 You can program the FLASH-ROM before soldering or with a special program adaptor after soldering. The second way allows you to reprogram the FLASH-ROM later without resoldering. On the BACK view there are the program pads JA13 to JA18, JWE1 and JOE1.
 
 It should be possible to use the ROM-Adapter in a 1541 floppy drive with 24 pol ROMs (2364) too.
+
+![C64-ROM-Adapter - 3](https://user-images.githubusercontent.com/39234805/113753469-6bde5000-970e-11eb-9ba7-43965a2d4aa5.jpg)
+
