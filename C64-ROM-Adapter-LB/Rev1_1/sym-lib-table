@@ -1,0 +1,8 @@
+(sym_lib_table
+  (lib (name 2364)(type Legacy)(uri ${KIPRJMOD}/lib/2364.lib)(options "")(descr ""))
+  (lib (name 2332)(type Legacy)(uri ${KIPRJMOD}/lib/2332.lib)(options "")(descr ""))
+  (lib (name sst39sf040)(type Legacy)(uri ${KIPRJMOD}/lib/sst39sf040.lib)(options "")(descr ""))
+  (lib (name 2364_socket)(type Legacy)(uri ${KIPRJMOD}/lib/2364_socket.lib)(options "")(descr ""))
+  (lib (name sst39sf040_dip32)(type Legacy)(uri ${KIPRJMOD}/lib/sst39sf040_dip32.lib)(options "")(descr ""))
+  (lib (name sst39sf040_tsop32)(type Legacy)(uri ${KIPRJMOD}/lib/sst39sf040_tsop32.lib)(options "")(descr ""))
+)
